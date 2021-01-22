@@ -28,7 +28,7 @@ For example, your dice value was 5 and the last position was 10, but position 15
 ● If either of the players reaches position 100, then that player will win and “Game Successfully Finished” will be printed. Also it will display which player won the game. 
 
 Note: Do not to overshoot the position 100. For example, if current position is 97 and value of dice is 6, then position will be the same i.e. 97 as 97+6 = 103 which is not possible. 
-● During any player’s chance, if he/she enters “quit” (without quotes), then the game will instantaneously end for that particular player and the other player will win the game. 
+● During any player’s chance, if he/she enters “quit” (without quotes),  then the game will instantaneously end for that particular player and the other player will win the game. 
 
 Concepts required: 
 ● List, Tuple, Dictionary 
